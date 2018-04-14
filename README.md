@@ -22,7 +22,7 @@ My implement of `Range Loss for Deep Face Recognition with Long-tail` using `MxN
 
 <img src="Image/RangeLoss%23withoutNorm/5.png"></img>
 
-### Range with normalize features
+### Range Loss with normalize features
 
 <img src="Image/RangeLoss%23Norm/6.png"></img>
 
