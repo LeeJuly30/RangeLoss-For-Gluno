@@ -12,19 +12,19 @@ My implement of `Range Loss for Deep Face Recognition with Long-tail` using `MxN
 
 ### SoftMax without normalize features
 
-<img src="Image/softmax#withoutNorm/6.png"></img>
+<img src="Image/softmax%23withoutNorm/6.png"></img>
 
 ### SoftMax with normalize features
 
-<img src="Image/softmax#Norm/5.png"></img>
+<img src="Image/softmax%23Norm/5.png"></img>
 
 ### Range Loss without normalize features
 
-<img src="Image/RangeLoss#withoutNorm/5.png"></img>
+<img src="Image/RangeLoss%23withoutNorm/5.png"></img>
 
 ### Range with normalize features
 
-<img src="Image/RangeLoss#Norm/6.png"></img>
+<img src="Image/RangeLoss%23Norm/6.png"></img>
 
 
 
