@@ -1,6 +1,6 @@
 # RangeLoss For Gluon
 
-My implement of <Range Loss for Deep Face Recognition with Long-tail> using `MxNet/Gluon`
+My implement of `Range Loss for Deep Face Recognition with Long-tail` using `MxNet/Gluon`
 
 ## Note
 
